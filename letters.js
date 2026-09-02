@@ -2,8 +2,8 @@ const letters = [
   {
     title: 'Para ti,',
     previewText: 'De Mamá',
-    text: `<p>No sé bien cómo empezar, así que empezaré por lo simple: pensé en ti hoy, como casi todos los días, y quise ponerlo por escrito para que no se quede solo flotando en mi cabeza.</p>
-           <p>Hay algo en la forma en que haces las cosas más pequeñas que hace que todo a mi alrededor se sienta un poco más liviano.</p>`,
+    text: `<p>1</p>
+           <p>2</p>`,
     sign: 'Con todo mi cariño'
   },
   {
