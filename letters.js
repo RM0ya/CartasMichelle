@@ -99,7 +99,7 @@ const letters = [
               ya son 18 recuerdo cuando eramos mas pequeñas y grabando tiktoks ajjaja y los bajones solo para nosotras, te amo mucho mi morena linda te deseo un muy feliz cumpleaños y 
               que te regaloneen mucho ❤️ y gracias igual a nachito pop por hacerte esto tan lindo disfruta tu dia al mil 
             </p>`,
-    sign: ''
+    sign: 'Te quiere Kote'
   },
   
   {
