@@ -92,12 +92,15 @@ const letters = [
     sign: ''
   },
   {
-    title: '',
+    title: 'Holii mi morenitaaa lindaa',
     previewText: 'De Kote',
-    text: `<p> </p>`,
+    text: `<p>feliz cumpleaños reyna que cumplas muchos mas y que dios te bendiga siempre, 
+              ojala estar pronto por aya, celebrarlos y colocarnos al dia jeje que este nuevo año de vida vengan con muchisimas cosas bonitas para ti porque te lo mereces tanto, 
+              ya son 18 recuerdo cuando eramos mas pequeñas y grabando tiktoks ajjaja y los bajones solo para nosotras, te amo mucho mi morena linda te deseo un muy feliz cumpleaños y 
+              que te regaloneen mucho ❤️ y gracias igual a nachito pop por hacerte esto tan lindo disfruta tu dia al mil 
+            </p>`,
     sign: ''
   },
- 
   
   {
     title: 'De Don Mauri',
