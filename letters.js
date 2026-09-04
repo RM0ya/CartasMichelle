@@ -3,14 +3,14 @@ const letters = [
     title: 'Para ti,',
     previewText: 'De Mamá',
     text: `<p>1</p>
-           <p>2</p>`,
+           <p><2/p>`,
     sign: 'Con todo mi cariño'
   },
   {
     title: 'Un recordatorio,',
     previewText: 'De Papá',
-    text: `<p>Esta carta es solo para recordarte lo increíble que eres y lo mucho que valoro cada momento que compartimos juntos.</p>
-           <p>Gracias por estar siempre ahí y por sacarme una sonrisa incluso en los días más difíciles.</p>`,
+    text: `<p>1</p>
+           <p>2</p>`,
     sign: 'Siempre tuyo/a'
   },
   {
@@ -39,15 +39,19 @@ const letters = [
     sign: 'Con amor Panchi'
   },
   {
-    title: '',
+    title: 'Feliz cumpleaños:',
     previewText: 'De Hans',
-    text: `<p> </p>`,
-    sign: ''
+    text: `<p>  Ojalá que pases un buen dia y que te regaloneen harto hoy te mereces un descanso aun que no haces nada casi , 
+                comer rico y pasarlo bien con todos juntos, sin andar estresada por ni una tontera de verdad da gusto ver que te mantienes enfocada y que te va bien en todo logrando tus metas. 
+                Sigue así no más, que vas súper bien.Espero que este año que viene llegue cargado de puras cosas buenas, de buenas noticias, éxito y harta salud, que es lo más importante que te salga todo tal cual lo tienes planeado pásala bacán hoy, 
+                un abrazo gigante y los mejores deseos siempre, bruja floja pesa
+          </p>`,
+    sign: 'Tu hermano Hans'
   },
   {
-    title: 'Querida hermana:',
+    title: '',
     previewText: 'De Elias',
-    text: `<p>te quiero decir algo eres la mejor hermana que es visto en mi vida , 
+    text: `<p>Querida hermana:te quiero decir algo eres la mejor hermana que es visto en mi vida , 
           aunque me reti y me peges siempre te amaré,  te deseo un feliz cumpleaños y que la pase bien con nosotros que te amamos mucho,  
           que este año se muy feliz para ti te quiero mucho, que cumplas muchos años más,  
           feliz 18 años te amamos
@@ -61,10 +65,16 @@ const letters = [
     sign: ''
   },
   {
-    title: '',
+    title: 'Mi princesa:',
     previewText: 'De Nachito',
-    text: `<p> </p>`,
-    sign: ''
+    text: `<p> Hace casi un año que empezamos a hablar y son impresionantes las cosas que hemos pasado juntos, y hoy estoy aquí celebrando sus 18 años.
+               Muchas veces se lo he dicho pero me faltarán palabras para decirle que estoy muy orgulloso de usted, es increíble en la gran mujer que se ha convertido, una mujer hermosa y sobre todo pura de corazón, una mujer valiente y fuerte ya que no importa los golpes que le da la vida usted se sabe levantar y salir adelante. Hoy comienza una nueva temporada en su vida, y de corazón le quiero pedir que nunca cambie su forma ser, ese carácter fuerte que tiene, su forma de amar, su manera de siempre pensar en la otra persona, en siempre dar lo mejor de usted sin importarle si sale dañada o no.
+               Hoy está cumpliendo 18 años, una edad más seria, con más responsabilidades dónde empieza a formar su propio camino, pero quiero que sepa que siempre me tendrá ahí para lo que necesite, siempre se lo he dicho que usted es mi mundo entero.
+               Se que es un cumpleaños diferente, un poco triste, pero por favor disfrute en este día y los próximos 365 días que se vienen, nunca deje de sonreír porque créame que estoy seguro que hay una persona que está mucho más orgullosa que yo, por lo fuerte y valiente que ha sido en este difícil proceso, y usted sabe de quién hablo...
+               Se que en este día tiene un millón de emociones, quizás estos últimos meses no han sido los mejores, muchas cosas no han salido como usted ha querido, pero no pierda el foco mi vida, usted es una mujer inteligente, la única que se pone el límite es usted, porque créame que si usted se lo propone logrará muchas cosas.
+              Mi vida en este día le quiero desear un muy feliz cumpleaños, que Dios me la proteja en todo momento y que nunca pierda ese brillo que la caracteriza, la amo hoy, mañana y siempre mi princesa.
+          </p>`,
+    sign: 'Su gordito.'
   },
   {
     title: '¡Feliz cumpleaños, mi niña hermosa!',
@@ -83,12 +93,25 @@ const letters = [
     sign: ''
   },
   {
-    title: '',
+    title: 'Feliz Cumpleaños Sobrina:',
     previewText: 'De Telo',
-    text: `<p> </p>`,
-    sign: ''
+    text: `<p>Hola sobrina le habla su tio telo, quiero desearle un gran día junto a sus seres queridos, un día que disfrute, que descanse y sobre todo que se sienta acompañada.
+              Además quiero decirle todo lo que siento por su forma de actuar, su empatía, su forma de actuar frente a las adversidades y sobre todo su sinceridad sin pelos en la lengua y 
+              eso se agradece, las personas que son capaces de decir las cosas sin pensar en como la otra persona se pueda sentir mal, habla bien de ud y mejor aun de la crianza de sus papás.
+          </p>`,
+    sign: 'Con cariño Tio Telo'
   },
-  
+  {
+    title: 'Hoy es tu cumpleaños',
+    previewText: 'Benjamín Zenteno',
+    text: `<p> Chora michi espero sea un día muy feliz
+              y agradable para ti que disfrutes un montón tú sabes todo el cariño que te tengo nos conocemos de muy chicos
+              y sé a formado una amistad muy agradable tú sabes que cuentas con un amigo para todas para las buenas y sobre todo para las malas 
+              te mando un fuerte abrazo te has convertido en una grandiosa mujer y sigue así que llegarás muy lejos espero esta vuelta al sol esté llena de alegría
+              y salud para ti y tu familia y seres queridos un abrazó chora michi , con cariño tu amigo zenteno 
+            </p>`,
+    sign: 'Chora Michi'
+  },
   {
     title: '',
     previewText: 'De Maikel',
@@ -111,10 +134,19 @@ const letters = [
             </p>`,
     sign: 'Te quiere Kote'
   },
-  
+  {
+    title: 'Felices 18, amiga',
+    previewText: 'De Estefani',
+    text: `<p>Felices 18, amiga 
+              Espero que este día sea muy lindo para ti y que disfrutes mucho junto a las personas que quieres. Espero que esta nueva etapa venga llena de cosas bonitas, nuevas experiencias y muchos momentos que puedas recordar con cariño.
+              Eres una persona muy especial y, sobre todo, alguien muy fuerte. Admiro la forma en que has sabido seguir adelante y enfrentar las distintas situaciones que se te han presentado
+              Deseo de corazón que puedas cumplir todas tus metas, que nunca dejes de luchar por lo que quieres y que siempre tengas muchos motivos para sonreír. Espero que estos 18 años estén llenos de momentos bonitos y que sea el comienzo de una etapa muy especial para ti Felices 18, amiga. Espero que tengas un día hermoso y que seas muy feliz siempre. 
+          </p>`,
+    sign: 'Felices 18, amiga'
+  },
   {
     title: 'De Don Mauri',
-    previewText: 'De ',
+    previewText: 'De Don Mauri',
     text: `<p> </p>`,
     sign: ''
   },
