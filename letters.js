@@ -1,3 +1,4 @@
+// Configura aquí tus cartas/sobres
 const letters = [
   {
     title: 'Para ti,',
@@ -82,7 +83,7 @@ const letters = [
     text: `<p>  Que sigas cumpliendo muchos más junto a tu padres y hermanos; 
                 yo, tu abuela, me siento muy orgullosa de la niña que eres. 
                 Sé que tienes muchos sueños en tu vida y sé que los vas a lograr; 
-                espero verte convertida en una gran mujer. Mi niña, no olvides que la amo con todo mi corazón; 
+                espero verte convertida en una gran mujer. Mi niña, no olvides que la amo con todo mi corazón.
                 </p>`,
     sign: 'Con amor tu abuela Nita.'
   },
@@ -108,7 +109,7 @@ const letters = [
               y agradable para ti que disfrutes un montón tú sabes todo el cariño que te tengo nos conocemos de muy chicos
               y sé a formado una amistad muy agradable tú sabes que cuentas con un amigo para todas para las buenas y sobre todo para las malas 
               te mando un fuerte abrazo te has convertido en una grandiosa mujer y sigue así que llegarás muy lejos espero esta vuelta al sol esté llena de alegría
-              y salud para ti y tu familia y seres queridos un abrazó chora michi , con cariño tu amigo zenteno 
+              y salud para ti y tu familia y seres queridos un abrazó chora michi , con cariño tu amigo zenteno.
             </p>`,
     sign: 'Chora Michi'
   },
@@ -119,10 +120,15 @@ const letters = [
     sign: ''
   },
   {
-    title: '',
-    previewText: 'De Jordan ',
-    text: `<p> </p>`,
-    sign: ''
+    title: 'Hola Michel',
+    previewText: 'De Misa',
+    text: `<p> 
+    espero cumplas mucho años mas y que todas tus metas se. 
+    Cumplan espero que todos tus sueños se cumplan, estoy grandemente agradecido por todo ah sido una amiga legal y 
+    leal a pesar se que ya no nos vemos pero yo se que si te nesesito estaras aki y si tu me nesesitas yo estare hay para pegarle a cualqueir klo mi hermana te amo como 
+    a la hermana que no tube, espero que esta amistad siga para muchos años mas hasta que se te caiga el bigote y ami me salga bigote jaja.
+    </p>`,
+    sign: 'te quiero negraaaa'
   },
   {
     title: 'Holii mi morenitaaa lindaa',
@@ -130,7 +136,7 @@ const letters = [
     text: `<p>feliz cumpleaños reyna que cumplas muchos mas y que dios te bendiga siempre, 
               ojala estar pronto por aya, celebrarlos y colocarnos al dia jeje que este nuevo año de vida vengan con muchisimas cosas bonitas para ti porque te lo mereces tanto, 
               ya son 18 recuerdo cuando eramos mas pequeñas y grabando tiktoks ajjaja y los bajones solo para nosotras, te amo mucho mi morena linda te deseo un muy feliz cumpleaños y 
-              que te regaloneen mucho ❤️ y gracias igual a nachito pop por hacerte esto tan lindo disfruta tu dia al mil 
+              que te regaloneen mucho ❤️ y gracias igual a nachito pop por hacerte esto tan lindo disfruta tu dia al mil.
             </p>`,
     sign: 'Te quiere Kote'
   },
@@ -145,10 +151,17 @@ const letters = [
     sign: 'Felices 18, amiga'
   },
   {
-    title: 'De Don Mauri',
+    title: 'Hola, hija mía, mi princesa:',
     previewText: 'De Don Mauri',
-    text: `<p> </p>`,
-    sign: ''
+    text: `<p> 
+    mi bebé. ¿Cómo estás?
+    Admiro tu alegría, tu humildad e inteligencia. Adoro verte disfrutar de la música, tal como la disfruto yo; disfruto y me llena de orgullo tu talento artístico, que tengo muy claro de quién lo sacaste, jaja.
+    Mi wawa, solo quiero desearte un feliz cumpleaños y que, en esta nueva vuelta al sol, el brillo de tu aura nada ni nadie lo apague, porque, como siempre te he dicho, tú brillas con luz propia.
+    Te amo con toda el alma, mi princesa, hasta el final de mis días.
+    Con todo mi amor,
+    En Un día como hoy, hace 18 años, te recibí en mis brazos con la emoción con la que un padre feliz recibe a su hija, y juré que siempre estaría cuidando de ti. Tal vez las cosas no resultaron como esperaba, pero nunca dejé de lado el amor que siempre voy a sentir por ti, porque eres mi única hija, la cual amo con todo mi corazón.
+    Tu papá...  </p>`,
+    sign: 'Mauricio Araya'
   },
 
 ];
