@@ -27,7 +27,7 @@ html,body{
   overflow-x:hidden;
 }
 
-/* floating decorative petals */
+
 .petal{
   position:fixed;
   top:-10%;
@@ -106,7 +106,7 @@ html,body{
   width:0; height:0;
   border-style:solid;
 }
-/* bottom triangular pocket shading */
+
 .pocket-left{
   position:absolute;
   left:0; bottom:0;
@@ -193,7 +193,7 @@ html,body{
   transform:translateX(-50%) translateY(-190px);
 }
 
-/* ---------------- LETTER MODAL ---------------- */
+
 .letter-modal{
   position:fixed;
   inset:0;
@@ -283,7 +283,7 @@ html,body{
   margin-top:6px;
 }
 
-/* ---------------- CAROUSEL BUTTON ---------------- */
+
 .carousel-btn{
   margin-top:38px;
   font-family:'Quicksand', sans-serif;
@@ -316,7 +316,7 @@ html,body{
   box-shadow:0 14px 26px -12px rgba(120,90,140,.5);
 }
 
-/* ---------------- CAROUSEL MODAL ---------------- */
+
 .carousel-modal{
   position:fixed;
   inset:0;
@@ -446,7 +446,7 @@ html,body{
   .letter-paper{ padding:34px 22px 28px; }
   .letter-text{ font-size:17px; line-height:29px; }
 }
-/* ---------------- ENVELOPE CAROUSEL ---------------- */
+
 .envelope-carousel-container {
   position: relative;
   width: min(380px, 90vw);
@@ -518,7 +518,7 @@ html,body{
   background: var(--rose-deep);
   transform: scale(1.25);
 }
-/* Transición suave para los títulos */
+
 .intro-title,
 .intro-sub {
   transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1), 
@@ -526,16 +526,16 @@ html,body{
               margin 0.4s ease;
 }
 
-/* Estado cuando la carta está abierta */
+
 .stage.letter-opened .intro-title {
-  transform: translateY(-25px) scale(0.85); /* Sube y reduce ligeramente el tamaño del título */
+  transform: translateY(-25px) scale(0.85); 
 }
 
 .stage.letter-opened .intro-sub {
-  transform: translateY(-100px); /* Sube el subtítulo */
-  opacity: 0.6;                 /* Reduce opacidad opcionalmente para dar foco a la carta */
+  transform: translateY(-100px); 
+  opacity: 0.6;                 
 }
-/* Transición suave para los títulos */
+
 .intro-title,
 .intro-sub {
   transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1), 
@@ -543,16 +543,15 @@ html,body{
               margin 0.4s ease;
 }
 
-/* Estado cuando la carta está abierta */
+
 .stage.letter-opened .intro-title {
-  transform: translateY(-25px) scale(0.85); /* Sube y reduce ligeramente el tamaño del título */
+  transform: translateY(-25px) scale(0.85); 
 }
 
 .stage.letter-opened .intro-sub {
-  transform: translateY(-100px); /* Sube el subtítulo */
-  opacity: 0.6;                 /* Reduce opacidad opcionalmente para dar foco a la carta */
+  transform: translateY(-100px); 
 }
-/* Transiciones suaves para guardar la carta y cerrar la solapa */
+
 .letter-inside {
   transition: transform 0.6s ease-in-out, z-index 0s 0.3s;
 }
@@ -562,5 +561,3 @@ html,body{
   transform-origin: top center;
 }
 
-/* Al quitar la clase .opened, las transiciones CSS animarán el regreso 
-   del papel al interior del sobre y el cierre de la solapa automáticamente */
