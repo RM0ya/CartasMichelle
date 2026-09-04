@@ -65,21 +65,21 @@ const letters = [
     sign: 'Tu hermano Hans'
   },
   {
-    title: '',
+    title: 'Querida hermana:',
     previewText: 'De Elias',
-    text: `<p>Querida hermana:te quiero decir algo eres la mejor hermana que es visto en mi vida , 
+    text: `<p>Te quiero decir algo eres la mejor hermana que es visto en mi vida , 
           aunque me reti y me peges siempre te amaré,  te deseo un feliz cumpleaños y que la pase bien con nosotros que te amamos mucho,  
           que este año se muy feliz para ti te quiero mucho, que cumplas muchos años más,  
           feliz 18 años te amamos
           </p>`,
     sign: 'Te amo mucho michi'
   },
-  {
+/* {
     title: '',
     previewText: 'De Dylan ',
     text: `<p> </p>`,
     sign: ''
-  },
+  }, */
   {
     title: 'Mi princesa:',
     previewText: 'De Nachito',
@@ -183,5 +183,17 @@ const letters = [
     Tu papá...  </p>`,
     sign: 'Mauricio Araya'
   },
+/* {
+    title: '',
+    previewText: 'De maikel ',
+    text: `<p> </p>`,
+    sign: ''
+  }, */
+  /* {
+    title: '',
+    previewText: 'De Ely ',
+    text: `<p> </p>`,
+    sign: ''
+  }, */
 
 ];
