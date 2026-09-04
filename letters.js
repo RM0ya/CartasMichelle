@@ -45,6 +45,16 @@ const letters = [
     sign: ''
   },
   {
+    title: 'Querida hermana:',
+    previewText: 'De Elias',
+    text: `<p>te quiero decir algo eres la mejor hermana que es visto en mi vida , 
+          aunque me reti y me peges siempre te amaré,  te deseo un feliz cumpleaños y que la pase bien con nosotros que te amamos mucho,  
+          que este año se muy feliz para ti te quiero mucho, que cumplas muchos años más,  
+          feliz 18 años te amamos
+          </p>`,
+    sign: 'Te amo mucho michi'
+  },
+  {
     title: '',
     previewText: 'De Dylan ',
     text: `<p> </p>`,
