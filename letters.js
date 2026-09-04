@@ -114,9 +114,11 @@ const letters = [
     sign: 'Chora Michi'
   },
   {
-    title: '',
-    previewText: 'De Maikel',
-    text: `<p> </p>`,
+    title: 'feliz cumpleaños negra',
+    previewText: 'De Jordan',
+    text: `<p>espero que sigas cumpliendo muchos más eres una persona maravillosa  eres la mejor espero que cumplas todos tus sueños junto a tu familia. 
+            siempre contaras con migo en todo te quiero mucho mi negra🥳🥰❤️
+           </p>`,
     sign: ''
   },
   {
