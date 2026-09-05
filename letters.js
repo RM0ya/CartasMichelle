@@ -21,11 +21,17 @@ const letters = [
   {
     title: 'Hola, hija.,',
     previewText: 'De Papá',
-    text: `<p>Quiero desearte un muy feliz cumpleaños. Espero que te encuentres bien y cómoda con las personas que tú consideras. Esa es la idea.
-    Bueno, hija, quería decirte con mis palabras que te amo mucho. Eres especial para mí, por eso a veces me veo un poco pesado, porque quiero lo   mejor para ti. Un poco molesto, pero entiendo que eres mi hija y tengo que aceptar algunas cosas, aunque no esté de acuerdo, jajaja.
-    Hija, te amo mucho y todo lo que hago es para tu bien. Eres muy inteligente, sabes manejar las situaciones. Solo decirte que lograrás todo lo que te propongas.
-    A veces no sé expresarme y te pido disculpas por eso, pero te amo mucho y lo que espero es verte bien. También recordarte que eres mi hija y, pase lo que pase, siempre estaré para ti.
-    Espero que cumplas muchos años más, por supuesto, al lado mío. Vamos a comprar un sitio grande para vivir todos juntos. 
+    text: `<p> Te quería desearte muy feliz cumpleaños, espero te encuentres bien y
+    cómoda con las personas que tú consideras. Ese esa es la idea bueno hija quería decirte con mis palabras que te amo mucho.
+    Eres especial para mí. Sí. Por eso que a veces quizás se ve que yo me molesto con usted, que no me gustan las cosas que hace pero es porque la amo mucho.
+    La amo demasiado y yo no voy a hacer vista gorda algo que está pasándole a mi hija. O que estoy viendo lo que está mal es mi hija. Es porque te amo mucho hija.
+    Me importas demasiado. Eres demasiado inteligente te veo. Eres demasiado inteligente. Sabes manejar las situaciones todo. Y entonces a eso voy yo que no a veces no me paran las cosas que yo que quizás no me sé expresarme.
+    Le pido disculpas por eso y quizás no sé decir las cosas, pero en el fondo es que te amo mucho y que necesito verte bien y si yo te veo bien o con dudas me preocupo porque eres mi hija, eres mi hija con guagua y yo no voy a querer que algo le pase a mi hija.
+    O que se sienta mal porque le falte algo. No, no puedo aceptar eso. Eres mi guagua y son mis guaguas ustedes y ustedes mi guagua especial igual por su edad que está pasando por sus etapas que está pasando es mujer tengo que ponerle más atención y siempre va a poner más atención al que le gusta este o 
+    no le gusta este o le gusta que el que quiera a quien sea no le guste voy a ponerle atención igual porque es mi deber y espero que cumpla mucho muchos muchos muchos años más al lado mío eso eso al lado mío Vamos a comprarlo y dándole todo lo que necesitaremos. Quedamos mucho perrita y y muy feliz cumpleaños. 
+    Disculpe que lo poco que he podido entregarle hasta el momento, pero estamos pero estamos bien allá vamos. Estamos trabajando para eso, estamos trabajando para darle todo lo que necesitan 1 buen futuro y en estabilidad más adelante con sus familias quizás. Pero eso perrita, te amo mucho, te amo mucho. Y si eres una persona especial para mí y eres mi hija y eres mi hija y
+    eso nadie, nadie, ni nunca nadie ni nada lo va a cambiar eso te amo mucho hijita, 
+    te amo mucho guagua feliz 
           </p>`,
     sign: 'Papá. ❤️'
   },
