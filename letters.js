@@ -74,12 +74,16 @@ const letters = [
           </p>`,
     sign: 'Te amo mucho michi'
   },
-/* {
-    title: '',
+ {
+    title: 'Hola niñita:',
     previewText: 'De Dylan ',
-    text: `<p> </p>`,
-    sign: ''
-  }, */
+    text: `<p>  Te escribo para desearte un feliz cumpleaños desde bien
+    lejos quiero decirte que estoy orgulloso de ti de lo que eres y lo que logras cada dia y se que tienes un buen futuro se que vas a llegar muy lejos 
+    y espero que llegues más lejos que todos tengo fé de que será así porque tienes el potencial para ser exitosa no dejes de ser como eres porque con tus gritos y todos tus enojos eres única  e inigualable asique no dejes de esforzarte espero pronto poder ir a Santiago para  poder verte y darle un abrazo a mi hermana favorita y discutir unas cuantas veces contigo te quiero mucho hermana ojalá nos podamos ver pronto cuídate y recuerda siempre que estoy orgulloso de ti
+    y siempre lo voy a estar
+           </p>`,
+    sign: 'El Dylan'
+  },
   {
     title: 'Mi princesa:',
     previewText: 'De Nachito',
