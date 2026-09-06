@@ -193,7 +193,7 @@ const letters = [
     Tu papá...  </p>`,
     sign: 'Mauricio Araya'
   },
-/{
+{
     title: 'Querida Hermana',
     previewText: 'De Brandon ',
     text: `<p>
