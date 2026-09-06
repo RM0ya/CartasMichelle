@@ -193,17 +193,77 @@ const letters = [
     Tu papá...  </p>`,
     sign: 'Mauricio Araya'
   },
-/* {
+/{
+    title: 'Querida Hermana',
+    previewText: 'De Brandon ',
+    text: `<p>
+Hoy que estás de cumpleaños quería escribirte estas líneas para decirte de corazón lo mucho que te quiero. Sé que no siempre soy la persona más demostrativa, pero un día tan especial como hoy no podía dejarlo pasar.
+Primero que nada, quiero agradecerte con el alma por ser como eres. Gracias por tu bondad, por tu paciencia y por ser esa hermana buena que siempre ha estado ahí, con un corazón enorme dispuesto a entregar lo mejor.
+También siento la necesidad de pedirte perdón. Sé que me alejé y los abandoné cuando éramos chicos, y es algo de lo que me arrepiento y que me ha pesado siempre, pero quiero que tengas por seguro que, a pesar de la distancia o del tiempo separado, el cariño que siento por ti jamás se perdió ni un solo segundo. Mi cariño por ti como hermano ha estado intacto desde el primer día.
+Hoy solo deseo que seas infinitamente feliz, que celebres tu vida rodeada de amor y que sepas que aquí estoy y estaré para ti. Te mereces todo lo mejor de este mundo.
+¡Muy feliz cumpleaños, hermana linda!  
+    </p>`,
+    sign: 'Te quiero muchísimo.'
+  }, 
+  {
+    title: 'Para mi querida cuñis: ',
+    previewText: 'De Fran ',
+    text: `<p>
+    Para mi , en tus 18 años ❤️
+ Hoy cumples 18 años y no puedo dejar pasar este día sin decirte lo especial que eres para nosotros. Que estos 18 sean el comienzo de una vida preciosa, llena de oportunidades, sueños cumplidos, amor y muchísima felicidad.
+ Cuando llegue a la familia como tú cuñada, jamás imaginé que con el tiempo llegaríamos a ser más que eso. Te has convertido en alguien a quien quiero y admiro .Porque para mí ya no eres solamente la hermana de mi pareja, eres parte de mi familia y, de alguna manera, también una hermanita para mí. ❤️
+ Hoy cumples 18, y aunque quizás para ti sea simplemente un cumpleaños más, para nosotros (baby y yo) es emocionante verte comenzar una etapa completamente nueva. Ya no eres aquella niña que quizás conocí al principio; estás creciendo, construyendo tus propios sueños ,carácter y convirtiéndote poco a poco en la mujer que quieres ser.
+ Deseo que la vida sea generosa contigo. Que conozcas personas que te quieran bonito, que nunca tengas que conformarte con menos de lo que mereces o de lo que siempre te ha dado tu familia y que aprendas a elegir siempre aquello que te haga feliz y te dé paz
+ Siempre habrá personas que te quieran, que estén orgullosas de ti y que quieran verte feliz. Y entre ellas nosotras❤️
+ Baby te envía muchos besitos y abrazos, te desea que lo pases súper en tu día y que te prepares para cuando llegue al mundo para recibir todo su amorcito, te queremos muchísimo y nunca dejes que nadie apague tu luz ❤️</p>`,
+    sign: 'De fran para ti'
+  }, 
+  {
+    title: 'chelita michelita:',
+    previewText: 'De Maikel',
+    text: `<p>Hola 
+ morenita oh negrita oh como vo keray ajsjs 
+Quiero desearte el mejor de tus cumpleaños y uno de los más importantes 
+k eres mayor de edad una señora una mujer echa y derecha estoyuy orgulloso de la adolescente k eres de la a decisiones k tomas
+y de lo k as elegido para tu vida como al popsito yo se k no soy el mejor tío pero el día k tú me necesites no miraré para niun lado mi negrita estaré de los primeros para 
+Ty eres seca en lo k esas en bailar cueca elegiste al mejor y tú eres la mejor en apoyar a la familia eres la mejor cajera PAL Quisco de tu mamá ajaja que rico saber k mis sobrinas an elegidos una hermosa vida trankilidad y mucho amor te kiero
+y te amo  princesita feliz vuelta al sol y cuidate mucho oeee un besito muy grande de la oveja negra de tu tío maikreeen besitos y disfruta y si te nombre arto al naxito pop es pork lo kiero mucho cuidalo 
+y k te cuide si no vamos a tener k avisaralo al pelao chupete Suazo de su papá jejeje  ❤️❤️❤️❤️❤️❤️❤️
+    </p>`,
+    sign: 'besitos mi reina felicidades'
+  },
+  {
+    title: 'hola Mi sangre:',
+    previewText: 'De Ian',
+    text: `<p>como estas espero que bien, bueno te escribo esto para desearte un muy feliz cumpleaños que la pases bien en tu dia,
+    que disfrutes harto con tus pares, tu familia, tus cercanos, quiero que sepas que te quiero caleta sangre, vo sai que eri mi hermana, aqui estamos en las buenas 
+    y malas. Espero que algun dia me perdones lo del baile no fue con mala intención pero aun asi seguiras siendo mi mejor amiga, ahora vas a entrar a la vida adulta, a la vida legal
+    y vamos a poder comprar copete con tu carnet, vamos a tomar a pasarla bien. tambien quiero agregar que cumplas todas tus metas, tus objetivos, tu eres una mujer con valores y humilde
+    que yo creo que nunca olvidaras de donde vienes y esas cosas son más importante que la plata y estudios, tener esos valores y ser siempre humilde tambien te abre puertas asi que nunca cambies tu forma de ser.
+    quiero nombrar al nachito que te esta haciendo este detalle, yo te dije sangre que ustedes dos como que nacieron para estar juntos.
+te quiero caleta negra, disfruta y pasala bien.
+feliz 18 negra.
+
+    </p>`,
+    sign: 'Con cariño: Ian'
+  },
+  {
     title: '',
-    previewText: 'De maikel ',
-    text: `<p> </p>`,
-    sign: ''
-  }, */
-  /* {
-    title: '',
-    previewText: 'De Ely ',
-    text: `<p> </p>`,
-    sign: ''
-  }, */
+    previewText: 'De jo',
+    text: `<p>feliz 18 mi michi ♡
+de: Jo
+hola mi waxita lindaa, sé que entre las dos está todo más que dicho pero esta ocasión es diferente, 
+entras a una etapa distinta en donde muchas cosas cambian y probablemente te asusten, tienes más responsabilidad sobre ti 
+y tu futuro como la linda persona que eres, y como amigas que en algún momento fuimos las más inseparables sé que podrás con todo.
+Te conozco, cada faceta tuya me las sé de memoria y no te puedes imaginar lo orgullosa que estoy de ti, de como afrontas cada situación y sentimiento,
+como a pesar de tanto esos ojos siguen brillando, de tu corazón y capacidad de perdonar, de lo emocional y sentimental que eres aunque a veces no lo quieras demostrar;
+así podría seguir escribiendo un montón de páginas dándote razones por las cuales me siento orgullosa como amiga, pero el fin de la carta es desearte en tu cumpleaños 18 que seas muy feliz, 
+que seas feliz hoy y el resto de tu vida porque si hay algo que deseo para ti mi waxita es que nunca dejes de ser esa michi que conocí en segundo, esa que con su forma de ser logró convertirse en alguien tan importante para mí. 
+Haz estado presente en tantas etapas de mi vida mi waxita, las cosas lindas que hemos pasado juntas como también las malas haz estado ahí y así nos hemos mantenido juntas porque sin importar la distancia al hablar todo sigue igual sobre todo la confianza, 
+esa confianza que que nunca podré tener con otra amiga, el hecho de conocernos tanto que no hace falta hablar para saber que la otra no está bien y así quiero permanecer contigo, que cuentes conmigo siempre, porque siempre estaré ahí, siempre mi waxita ♡, 
+feliz cumpleaños  ♡
+    </p>`,
+    sign: 'te adoro con el alma entera.'
+  },
 
 ];
